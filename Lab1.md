@@ -17,3 +17,7 @@
 Navigate to [Azure Machine Learning Studio](https://studio.azureml.net/)
 
 ![](media/Login.png)
+
+Main Screen
+
+![](media/Lab1-1.png)
