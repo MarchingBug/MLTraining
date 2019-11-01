@@ -21,3 +21,7 @@ Navigate to [Azure Machine Learning Studio](https://studio.azureml.net/)
 Main Screen
 
 ![](media/Lab1-1.png)
+
+
+Further Reading
+[Machine Learning WebServices](https://docs.microsoft.com/en-us/azure/machine-learning/studio/consume-web-services)
