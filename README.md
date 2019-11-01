@@ -1,8 +1,8 @@
-# Predictive Analytics  for Business Analysts
+# Predictive Analytics for Business Analysts
 
 ## Introduction
 
-In this workshop we will use [Azure Machine Learning Studio](https://studio.azureml.net/) to predict **need to define the experiment**
+In this course we will use [Azure Machine Learning Studio](https://studio.azureml.net/) to predict **need to define the experiment**
 
 Azure Machine Learning Studio is a collaborative, drag-and-drop visual workspace where you can build, test, and deploy machine learning solutions without needing to write code.  
 
