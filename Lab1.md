@@ -1,4 +1,4 @@
-# Predictive Analytics for Business Analysts | Lab 1
+# Predictive Analytics for Business Analysts - Lab 1
 
 ## Learning Objectives
 
