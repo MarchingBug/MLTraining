@@ -63,17 +63,18 @@ A *green checkmark* will be displayed on the right-hand side of the *Import Data
 The *Results dataset* for the *Import Data* module should be displayed.  The visualization displays the number of rows and columns, sample data rows, descriptive statistics and attribute level distribution information:
 ![Load Data from Azure SQL Server](media/image014.png)
 
-### Summarize Data
+##### Summarize Data
 
 1. Type **summarize** in the module search window and hit enter.  Drag and drop the **Summarize Data** module onto the experiment canvas:
 ![Summarize Data](media/Lab1-summarize.png)
 1. Click on the Save icon at the bottom of the canvas to save the experiment. Next, click on the Run icon at the bottom of the canvas and select Run to execute the modules included in the experiment.
 ![Load Data from Azure SQL Server](media/Lab1-summarize.png)
 1. You will be able to see the statistical information for the loaded dataset:
-       • max, min, media, mean,count
+       <br> max, min, media, mean,count, ext
 ![Load Data from Azure SQL Server](media/lab1-view-summarized.png)
 
 	
+## [Back to Syllabus](readme.md)
 
 
 Further Reading
