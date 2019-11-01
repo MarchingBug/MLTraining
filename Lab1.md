@@ -1,10 +1,19 @@
 # Predictive Analytics for Business Analysts | Lab 1
 
-## Goals
+## Learning Objectives
 
 	• Establishing access to the cloud service, navigating the screens, reviewing and summarizing data. 
 	• Designing and training a linear model, interpreting the output 
+	
+## Tasks
+1. Establishing access to the cloud service
+1. Navigating the screens
+1. Reviewing and summarizing data
+1. Designing and training a linear model
+1. Interpreting the output 
 
-### Establishing access to the cloud service, navigating the screens, reviewing and summarizing data
+### Establishing access to the cloud service
 
-![](media/login.png)
+Navigate to [Azure Machine Learning Studio](https://studio.azureml.net/)
+
+![](../media/login.png)
