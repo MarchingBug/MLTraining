@@ -14,7 +14,7 @@ A new [visual interface for Azure Machine Learning](https://docs.microsoft.com/e
 
 ### Syllabus
 
-#### Lab 1
+#### [Lab 1](Lab1.md)
 	• Establishing access to the cloud service, navigating the screens, reviewing and summarizing data. 
 	• Designing and training a linear model, interpreting the output 
 
