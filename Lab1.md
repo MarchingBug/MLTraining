@@ -12,8 +12,8 @@
 1. Designing and training a linear model
 1. Interpreting the output 
 
-### Establishing access to the cloud service
+### Task 1 Establishing access to the cloud service
 
 Navigate to [Azure Machine Learning Studio](https://studio.azureml.net/)
 
-![](../media/login.png)
+![](../media/Login.png)
