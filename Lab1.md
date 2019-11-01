@@ -74,7 +74,7 @@ The *Results dataset* for the *Import Data* module should be displayed.  The vis
 ![Load Data from Azure SQL Server](media/lab1-view-summarized.png)
 
 	
-## [Back to Syllabus](readme.md)
+## [Back to Syllabus](README.md)
 
 
 Further Reading
