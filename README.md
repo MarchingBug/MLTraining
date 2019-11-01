@@ -1,4 +1,4 @@
-# Introduction to Azure Machine Learning Workshop
+# Predictive Analytics  for Business Analysts
 
 ## Visual ML Classification
 
