@@ -63,10 +63,10 @@ A *green checkmark* will be displayed on the right-hand side of the *Import Data
 The *Results dataset* for the *Import Data* module should be displayed.  The visualization displays the number of rows and columns, sample data rows, descriptive statistics and attribute level distribution information:
 ![Load Data from Azure SQL Server](media/image014.png)
 
-### Transform and prepare data
+### Summarize Data
 
-1. Type **select** in the module search window and hit enter.  Drag and drop the **Select Columns in Dataset** module onto the experiment canvas:
-![Load Data from Azure SQL Server](media/image015.png)
+1. Type **summarize** in the module search window and hit enter.  Drag and drop the **Summarize Data** module onto the experiment canvas:
+![Summarize Data](media/Lab1-summarize.png)
 1. To create a machine learning pipeline, modules need to be connected.  To connect the output of the *Import Data* module to the input of the *Select Columns in Dataset* module, click and hold on the circle at the bottom of the *Import Data* module then drag the mouse currsor over the circle at the top of the *Select Columns in Dataset* module.  Release the mouse buttom to complete the connection:
 ![Load Data from Azure SQL Server](media/image016.png)
 1. The properties panel for the *Select Columns in Dataset* module should now be displayed on the right-hand side of the canvas.  Click on **Launch column selector**:
