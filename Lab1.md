@@ -75,7 +75,3 @@ The *Results dataset* for the *Import Data* module should be displayed.  The vis
 
 	
 ## [Back to Syllabus](README.md)
-
-
-Further Reading
-[Machine Learning WebServices](https://docs.microsoft.com/en-us/azure/machine-learning/studio/consume-web-services)
